@@ -1,0 +1,204 @@
+
+
+.mainbar{
+	margin-top:3px;
+	background-color:#333333;	
+	border:2px solid #111;
+	height:40px;
+	
+}
+.menubar{
+	background-color:#ffffff;	
+	border-bottom:1px dotted #111;
+	height:75px;
+}
+.login{
+	
+background-color:#ffffff;	
+
+	
+}
+.mycontrol{
+	
+	margin-top:50px;
+	margin-left:50px;
+	padding:10px;
+	
+	
+}
+a:link{
+font-size:16px;
+text-decoration:underline;
+
+}
+a:hover{
+	size:50px;
+	color:#f90;
+}
+i{ 
+	margin-top:3px;
+	padding:10px;
+	color:#ffffff;
+    font-size:50px;
+}
+#menubar1{
+	margin-top:15px;
+	margin-left:200px;
+	padding:10px;
+	background-color:#00264d;
+	color:#ffffff;
+}
+#logo{
+	margin-top:-85px;
+	margin-left:600px;
+}
+
+#button{
+	font-size:18px;
+	margin-left:120px;
+	width:130px;
+	
+}
+.Social{
+	
+	margin-left:150px;
+	padding:0px;
+}
+body{
+	background-color: #e6e6e6;
+}
+#pmenu{
+	margin:5px;
+	padding:5px;
+	
+}
+#pargaph{
+	font-size:24px;
+	padding:1px;
+	margin-top:-55px;
+	margin-left:250px;
+	
+}
+form{
+	margin-top:30px;
+	margin-bottom:100px;
+	background-color:#f2f2f2;
+	border:2px solid #111;
+	width:500px;
+	height:350px;
+	margin-left:450px;
+}
+.register{
+	border:1px solid #111;
+	height:50px;
+	width:496px;
+	margin-top:89px;
+	text-align:center;
+	margin-left:-60px;
+	padding-top:12px;
+	background-color:#DCDDDE;
+	
+
+}
+#register{
+	color:#13316c;
+	font-size:18px;
+}
+.mediapar{
+	background-color:#f8f8f8;	
+	border-top:1px dotted #111;
+	height:75px;
+	
+	}
+.footer{
+	color:#ffffff;
+	background-color:#333333;	
+	border-top:2px solid #111;
+	text-align:center;
+	height:54px;
+	}
+#address{
+	margin-left:-950px;	
+	margin-right:10px;
+	padding:10px;
+	color:#ababba;
+	}
+#contactus{
+		margin-left:1000px;
+		margin-top:-40px;
+	}
+#login i{
+	display:relative;
+	height:15px;
+		margin-top:-80px;
+		margin-left:1100px;
+		color:#ffffff;
+		background-color:#333333;
+			}
+.mypassword{
+	background-color:#f99;
+	margin-top:50px;
+	margin-left:0px;
+}
+#myinput1{
+	background-color:#f99;
+	font-size:80px;
+	}
+	
+.phone{
+		color:#111;
+		margin-left:1000px;
+		margin-top:-40px;
+		
+	}
+#phone{
+		color:#001433;
+	}
+.phone :hover{
+	font-size:26px;
+	}
+#education{
+		margin-left:392px;
+		margin-top:40px;
+		height:70px;
+		width:60px;
+		background-color:#4d4d4d;
+		padding:7px;
+		
+	}
+#cont{
+		border:1px solid #111;
+		width:400px;
+		height:900px;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+#cont li a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+ li  a:link{
+	text-decoration:none;
+	font-size:18px;
+	
+}
+
+ li  a:hover{
+	 	color:#f7f7f7;
+ }
+li{
+	
+	padding:10px;
+	display:inline;
+}	
+
+.MySocial{
+	padding:8px;
+	margin-top:10px;
+	margin-left:100px;
+
+	}
